@@ -1,1 +1,9 @@
-h1{color:red;}
+body{background-color:Orange;
+     color:Blue;}
+h2{font-size:35px; font-weight:bolder}
+h4{color:Black;font-size:25px; font-weight:bold;}
+h1{font-size:40px}
+a{font-size:22px;
+  color:darkgreen;}
+p{color:Black; font-size:18px}
+li{font-size:22px;}
