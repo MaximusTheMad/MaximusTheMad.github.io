@@ -85,7 +85,7 @@ header{
 @media(max-width:600px)
 {
   .section-content{
-    line-height:60px;
+    line-height:100px;
   }
   .section-header{font-size:4em;
 }
