@@ -79,7 +79,10 @@ header{
     padding-top:100px;
     padding-bottom:100px;
   }
-
+    
+    Monty-Python{
+        padding:100px;
+    }
 }
 
 @media(max-width:600px)
@@ -93,9 +96,7 @@ header{
     padding-top:100px;
     padding-bottom:100px;
   }
-    #Monty-Python{
-        padding:100px;
-    }
+    #
 }
 
 @media(max-width:450px)
