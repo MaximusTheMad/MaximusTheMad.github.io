@@ -74,5 +74,19 @@ header{
   #WorldWarZ{
     color:lawngreen;
   }
+    
+      #Yellow-Submarine{
+    padding-top:100px;
+    padding-bottom:100px;
+  }
 
+}
+
+@media(max-width:600px)
+{
+  .section-content{
+    line-height:60px;
+  }
+  .section-header{font-size:4em;
+}
 }
