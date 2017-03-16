@@ -62,6 +62,9 @@ header{
   text-align:center;
 }
 
+#AboutMe{
+  font-family: 'Playfair Display', serif;
+}
 @media(max-width:1000px)
 {
   .sec1, .sec2{
@@ -71,4 +74,5 @@ header{
   #WorldWarZ{
     color:lawngreen;
   }
+
 }
