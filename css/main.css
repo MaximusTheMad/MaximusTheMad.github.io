@@ -85,12 +85,22 @@ header{
 @media(max-width:600px)
 {
   .section-content{
-    line-height:100px;
+    line-height:60px;
   }
   .section-header{font-size:4em;
 }
      #Yellow-Submarine{
     padding-top:100px;
     padding-bottom:100px;
+  }
+    #Monty-Python{
+        padding:100px;
+    }
+}
+
+@media(max-width:450px)
+{
+    .section-content{
+    line-height:80px;
   }
 }
