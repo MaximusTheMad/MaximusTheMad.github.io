@@ -23,7 +23,7 @@ background-color:#d1d1d1;
 
 
 .sec-title{
-  background-size: contain;
+  background-size: cover;
   background-repeat:no-repeat;
   color:white;
 
@@ -32,7 +32,7 @@ background-color:#d1d1d1;
   font-family: 'Old Standard TT', serif;
 }
 #WorldWarZ{background-image:url(http://1.bp.blogspot.com/-ddSJjtUL09c/UbPJLvvEMdI/AAAAAAAABN4/II9D051gJXM/s1600/WorldWarZ_200-s6-c30.jpg);
-  background-size:cover;;}
+  background-size:contain;}
 
 
 #Yellow-Submarine{
