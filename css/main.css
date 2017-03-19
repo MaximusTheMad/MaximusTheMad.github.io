@@ -10,7 +10,7 @@ background-color:#d1d1d1;
 .body-content{
   display:flex;
   flex-flow:column nowrap;
-  
+
 }
 
 .sec1, .sec2{
@@ -23,10 +23,10 @@ background-color:#d1d1d1;
 
 
 .sec-title{
-  background-size: cover;
+  background-size: contain;
   background-repeat:no-repeat;
   color:white;
-  
+
 }
 #Shawshank{background-image:url(http://www.virgeweb.com/rage2/hd/shawshank1.jpg);
   font-family: 'Old Standard TT', serif;
@@ -70,16 +70,16 @@ header{
   .sec1, .sec2{
     flex-flow:row wrap;
   }
-  
+
   #WorldWarZ{
     color:lawngreen;
   }
-    
+
       #Yellow-Submarine{
     padding-top:100px;
     padding-bottom:100px;
   }
-    
+
     #Monty-Python{
         padding:100px;
     }
