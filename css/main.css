@@ -54,6 +54,7 @@ header{
   font-family: 'Jura', sans-serif;
   display:flex;
   flex-flow:row wrap;
+  justify-content: center;
   background-image:url(https://static1.squarespace.com/static/5638e37ae4b0bcbea32a1523/t/584a1698cd0f68ddbf006817/1481250457452/game%2Bdesign.png?format=2500w);
   background-size:100% 100%;
   color:#090;
@@ -68,6 +69,7 @@ header{
 {
   max-width: 50%;
   width:50%;
+  height:50%;
 }
 #AboutMe{
   font-family: 'Playfair Display', serif;
