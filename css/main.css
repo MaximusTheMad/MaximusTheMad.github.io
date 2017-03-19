@@ -64,6 +64,10 @@ header{
   text-align:center;
 }
 
+#profile-image
+{
+  max-width: 75%;
+}
 #AboutMe{
   font-family: 'Playfair Display', serif;
 }
