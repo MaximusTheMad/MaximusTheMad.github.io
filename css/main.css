@@ -68,8 +68,9 @@ header{
 #profile-image
 {
   max-width: 50%;
-  width:50%;
-  height:50%;
+  max-height: 50%;
+  width:200px;
+  height:200px;
 }
 #AboutMe{
   font-family: 'Playfair Display', serif;
