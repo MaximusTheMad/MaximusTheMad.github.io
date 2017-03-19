@@ -53,7 +53,7 @@ header{
   font-size:6em;
   font-family: 'Jura', sans-serif;
   display:flex;
-  flex-flow:row wrap;
+  flex-flow:column wrap;
   align-items: center;
   background-image:url(https://static1.squarespace.com/static/5638e37ae4b0bcbea32a1523/t/584a1698cd0f68ddbf006817/1481250457452/game%2Bdesign.png?format=2500w);
   background-size:100% 100%;
