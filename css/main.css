@@ -3,7 +3,7 @@
 padding-right:40px;
 }
 
-.section-top{background:black; color:white; padding-bottom:40px; padding-top:40px; border-style:solid; border-color:red;}
+.section-top{background:black; color:white; padding-bottom:40px; padding-top:40px; border-style:solid; border-color:red; font-family: 'Playfair Display', serif; font-weight: bold;}
 .sec1{
 background-color:#d1d1d1;
 }
