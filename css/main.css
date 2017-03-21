@@ -177,6 +177,10 @@ margin:auto;
     padding-top:100px;
     padding-bottom:100px;
   }
+  .returnArrow
+  {
+    width:5em;
+  }
 }
 
 @media(max-width:450px)
