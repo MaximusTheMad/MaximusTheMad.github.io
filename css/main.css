@@ -147,7 +147,7 @@ margin:auto;
 @media(max-width:600px)
 {
   .section-content{
-    line-height:60px;
+    line-height:80px;
   }
   .section-header{font-size:4em;
 	}
@@ -160,6 +160,6 @@ margin:auto;
 @media(max-width:450px)
 {
     .section-content{
-    line-height:80px;
+    line-height:100px;
   }
 }
