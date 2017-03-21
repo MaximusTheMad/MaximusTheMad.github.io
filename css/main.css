@@ -130,6 +130,19 @@ background-color:#d1d1d1;
   vertical-align:middle;
 }
 
+
+
+footer{
+  background:orange;
+  background-origin:border-box;
+}
+
+.returnArrow
+{
+  width:10em;
+  padding-left:50%;
+}
+/********Media Queries*************/
 @media(max-width:1000px)
 {
   .sec1, .sec2{
