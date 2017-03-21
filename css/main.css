@@ -21,7 +21,7 @@ background-color:#d1d1d1;
 }
 .section-content{font-size:1.5em; padding-left:50px; border-style:solid; line-height:50px}
 
-
+.aboutme{ background: white;}
 .sec-title{
   background-size: cover;
   background-repeat:no-repeat;
@@ -97,9 +97,7 @@ background-color:#d1d1d1;
 #AboutMe{
   font-family: 'Playfair Display', serif;
 }
-.aboutme p{
-  background: white;
-}
+
 #Shawshank{background-image:url(http://www.virgeweb.com/rage2/hd/shawshank1.jpg);
   font-family: 'Old Standard TT', serif;
 }
