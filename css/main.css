@@ -65,7 +65,17 @@ header{
   font-family: 'Jura', sans-serif;
   color:#090;
 }
+.SocialMedia
+{
+  display:flex;
+  flex-flow:row nowrap;
+  justify-content:flex-end;
+  padding-top:20px;
+  background:orange;
+  background-origin:border-box;
 
+
+}
 
 .SocialMedia p
 {
