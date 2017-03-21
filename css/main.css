@@ -85,6 +85,14 @@ background-color:#d1d1d1;
   height:200px;
 }
 
+.header p{
+  display:flex;
+  flex-flow:row nowrap;
+  justify-content:center;
+  margin-bottom:auto;
+  text-align:center;
+}
+
 /*************************************************************************************************/
 #AboutMe{
   font-family: 'Playfair Display', serif;
