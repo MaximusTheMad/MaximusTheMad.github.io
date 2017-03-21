@@ -21,7 +21,7 @@ background-color:#d1d1d1;
 }
 .section-content{font-size:1.5em; padding-left:50px; border-style:solid; line-height:50px}
 
-.aboutme{ background: white;}
+.aboutme{ background: white; background-origin: border-box;}
 .sec-title{
   background-size: cover;
   background-repeat:no-repeat;
