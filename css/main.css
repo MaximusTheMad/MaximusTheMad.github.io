@@ -97,6 +97,9 @@ background-color:#d1d1d1;
 #AboutMe{
   font-family: 'Playfair Display', serif;
 }
+.aboutme p{
+  background: white;
+}
 #Shawshank{background-image:url(http://www.virgeweb.com/rage2/hd/shawshank1.jpg);
   font-family: 'Old Standard TT', serif;
 }
