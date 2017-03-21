@@ -47,7 +47,7 @@ background-color:#d1d1d1;
   background:url("https://secure.static.tumblr.com/2cd165e8d77981fb14fe590481662455/ve3lwl9/2Don1opha/tumblr_static_holy-grail.jpg") no-repeat center;
   color:yellow;
   font-family: 'UnifrakturMaguntia', cursive;
-  
+
   vertical-align:middle;
 }
 header{
@@ -71,6 +71,23 @@ header{
   color:#090;
 }
 
+.SocialMedia p
+{
+  font-size:2em;
+  font-family: 'Old Standard TT', serif;
+  color:blue;
+}
+.socialButton
+{
+  width:4em;
+  height:4em;
+  max-width:4em;
+  max-height:4em;
+  margin-top:auto;
+  margin-bottom:auto;
+  margin-left:1.5em;
+  margin-right:1.5em;
+}
 #profile-image
 {
   display: block;
