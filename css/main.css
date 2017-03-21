@@ -50,7 +50,7 @@ background-color:#d1d1d1;
 
   vertical-align:middle;
 }
-header{
+.header{
 
   display:flex;
   flex-flow:column wrap;
