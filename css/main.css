@@ -97,10 +97,12 @@ header{
       #Yellow-Submarine{
     padding-top:100px;
     padding-bottom:100px;
+margin:auto;
   }
 
     #Monty-Python{
         padding:100px;
+	margin:auto;
     }
 }
 
@@ -110,7 +112,7 @@ header{
     line-height:60px;
   }
   .section-header{font-size:4em;
-}
+	}
      #Yellow-Submarine{
     padding-top:100px;
     padding-bottom:100px;
